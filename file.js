@@ -44,3 +44,4 @@ if (task === 1) {
     }
   });
 }
+console.log("finish");
